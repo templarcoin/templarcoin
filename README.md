@@ -18,7 +18,7 @@ out collectively by the network. Templarcoin is also the name of the open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Templarcoin client software, see http://www.coingen.io.
+the Templarcoin client software, see http://www.templarcoin.org.
 
 License
 -------
