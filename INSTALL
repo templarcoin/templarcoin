@@ -1,9 +1,0 @@
-Building Templarcoin
-
-See doc/readme-qt.rst for instructions on building Templarcoin-Qt,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of Templarcoin.
-
-See doc/build-*.txt for instructions on building templarcoind,
-the intended-for-services, no-graphical-interface, reference
-implementation of Templarcoin.
