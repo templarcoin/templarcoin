@@ -1,0 +1,4 @@
+templarcoin-qt
+==============
+
+templarcoin
